@@ -1,11 +1,11 @@
-# Hakuna Matata Website #
+# Bonito Interior Design Website #
 
 This README would document whatever steps are necessary to get your application up and running.
 
 ### Summary ###
 
-* This repo contains front end files for the HakunaMatata website.
-* This project uses jeet.gs for the grid system
+* This repo contains front end files for the Bonito website.
+* This project uses Bootatrsp framework for the requiered compoents 
 * Jade(now PugJs) is used as a HTML templating language, SASS for CSS pre-processing and BEM(http://getbem.com/) as naming convention for style rules.
 * HarpJs(https://harpjs.com/) is used as a static web server for development.
 * GulpJs(http://gulpjs.com/) is used to build distribution files.
